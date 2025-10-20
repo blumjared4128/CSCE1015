@@ -4,4 +4,4 @@ Assignment repository for UNT CSCE1015
 jb1764
 
 ## Your Favorite Linux Command
-$sl
+sl
