@@ -1,6 +1,7 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
-## jb1764
+## EUID
+$jb1764
 
-## sl
+## Your Favorite Linux Command
 $sl
